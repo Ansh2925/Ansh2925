@@ -32,7 +32,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh2925&theme=monokai&radius=10" alt="Ansh2925's Activity Graph" />
 </p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D City" width="100%" />
 </div>
 
 
