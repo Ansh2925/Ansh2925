@@ -29,7 +29,7 @@
   <img src="https://trophy.ryglcloud.net/?username=Ansh2925&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ansh's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh2925&theme=monokai&radius=10" alt="Ansh2925's Activity Graph" />
+  <img height="280em" src="activity-graph/activity-graph.svg" alt="Ansh2925's Activity Graph" />
 </p>
 <div align="center">
   <img src="profile-3d-contrib/profile-night-green.svg" alt="3D City" width="100%" />
